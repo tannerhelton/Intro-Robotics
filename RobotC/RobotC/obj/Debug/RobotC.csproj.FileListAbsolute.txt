@@ -1,1 +1,6 @@
 C:\Users\tanner\Git\Robotics\RobotC\RobotC\bin\Debug\RobotC.exe.config
+C:\Users\tanner\Git\Robotics\RobotC\RobotC\obj\Debug\RobotC.csprojResolveAssemblyReference.cache
+C:\Users\tanner\Git\Robotics\RobotC\RobotC\bin\Debug\RobotC.exe
+C:\Users\tanner\Git\Robotics\RobotC\RobotC\bin\Debug\RobotC.pdb
+C:\Users\tanner\Git\Robotics\RobotC\RobotC\obj\Debug\RobotC.exe
+C:\Users\tanner\Git\Robotics\RobotC\RobotC\obj\Debug\RobotC.pdb
